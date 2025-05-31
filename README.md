@@ -19,6 +19,9 @@ python app.py
 POST http://localhost:5000/chat
 Body: { "message": "hello" }
 ```
+4. Deployment
+
+   https://chatbox-backend-fumg-git-main-vanshikadubey1s-projects.vercel.app/
 
 ## Example Response
 ```json
